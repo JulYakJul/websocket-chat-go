@@ -9,13 +9,11 @@
 
 ## Overview
 
-A simple real-time chat application built with **Go** to demonstrate:
+This is my project to **learn** Go's capabilities in real-time systems development, designed to learn Go. A real-time chat application built with **Go** to demonstrate:
 - WebSocket communication
 - PostgreSQL integration
 - Concurrent message handling
 - Basic client-server architecture
-
-> **Note**: This is my project to **learn** Go's capabilities in real-time systems development, designed to learn Go
 
 ## Features
 
@@ -25,7 +23,7 @@ A simple real-time chat application built with **Go** to demonstrate:
 - Simple authentication (username-based)
 - Cross-platform clients
 
-## 🛠 Technologies
+## Technologies
 
 | Component       | Technology |
 |-----------------|------------|
